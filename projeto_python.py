@@ -60,7 +60,7 @@ while True:
 
 
     elif opcao == "0":
-        print("Obrigado pela preferencia, volte sempre!!!")
+        print("Obrigado pela preferencia, volte sempre!!!!")
         break
 
     else:
